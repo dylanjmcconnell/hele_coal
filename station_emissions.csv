@@ -1,160 +1,160 @@
-CATEGORY,STATION_NAME,GWH,SCOPE_1,EMISSIONS
-Biomass,Invicta Sugar Mill,366.137214136,,
-Biomass,Pioneer Sugar Mill,179.067211454,,
-Biomass,Rocky Point Cogeneration Plant,32.4459833841,,
-Black Coal,Bayswater Power Station,16687.4933111,0.8655,14443.0254607
-Black Coal,Callide A Power Station,0,,
-Black Coal,Callide B Power Station,4821.38502293,0.92,4435.6742211
-Black Coal,Callide Power Plant,5442.24156263,0.8953,4872.43887102
-Black Coal,Eraring Power Station,12976.8599294,0.8623,11189.9463172
-Black Coal,Gladstone Power Station,6958.29981745,0.96,6679.96782475
-Black Coal,Kogan Creek Power Station,4740.8232788,0.82,3887.47508862
-Black Coal,Liddell Power Station,9037.22301248,0.93,8404.61740161
-Black Coal,Millmerran Power Plant,6903.75004167,0.8301,5730.80290959
-Black Coal,Mt Piper Power Station,7749.17419394,0.8623,6682.11290744
-Black Coal,Stanwell Power Station,9231.38509146,0.8609,7947.29942524
-Black Coal,Tarong North Power Station,2671.97575637,0.833,2225.75580506
-Black Coal,Tarong Power Station,9021.26552,0.86,7758.2883472
-Black Coal,"Vales Point ""B"" Power Station",7836.22640202,0.86,6739.15470574
-Brown Coal,Energy Brix Complex Power Station,0,2.8,0
-Brown Coal,Hazelwood Power Station,10166.4309167,1.3963,14195.3874889
-Brown Coal,Loy Yang A Power Station,15693.7423241,1.15,18047.8036727
-Brown Coal,Loy Yang B Power Station,8440.20715657,1.136,9588.07532986
-Brown Coal,Northern Power Station,1308.47602271,1.0102,1321.82247815
-Brown Coal,Playford B Power Station,0,,
-Brown Coal,Yallourn W Power Station,11413.0542869,1.31,14951.1011158
-Distillate,Angaston Power Station,6.0425043878,,
-Distillate,Broken Hill Gas Turbines,1.8556379058,,
-Distillate,Eraring Power Station,0,0.8623,0
-Distillate,Hunter Valley Gas Turbine ,0.888064775,0.8872,0.7878910684
-Distillate,Lonsdale Power Station,3.5248607733,,
-Distillate,Mackay Gas Turbine,0.5968772167,1,0.5968772167
-Distillate,Mt Stuart Power Station,58.6274690467,0.9559,56.0419976616
-Distillate,Port Lincoln Gas Turbine,1.9732867042,1.4,2.7626013858
-Distillate,Port Stanvac Power Station 1,5.7197,,
-Distillate,Snuggery Power Station,3.0433311367,1.4,4.2606635913
-Distillate,Catagunya Diesel Generation ,21.6818824006,,
-Distillate,George Town Diesel Generation,3.9733867554,,
-Distillate,Meadowbank Diesel Generation,13.3751189438,,
-Distillate,Port Latta Diesel Generation,4.9615672217,,
-Distillate,Que River Diesel Generator,6.0353905795,,
-Distillate,Bell Bay Diesel Generator,1.4238383873,,
-Gas,Bairnsdale Power Station,153.548586667,0.5243,80.5055239893
-Gas,Barcaldine Power Station,3.300550135,1,3.300550135
-Gas,Bell Bay Three Power Station,164.7189375,0.6177,101.746887694
-Gas,Braemar 2 Power Station,647.834572771,0.5919,383.453283623
-Gas,Braemar Power Station ,803.136018914,0.5705,458.189098791
-Gas,Colongra Power Station,23.733094805,0.64,15.1891806752
-Gas,Condamine Power Station A,1674.3521959,0.4543,760.658202596
-Gas,Darling Downs Power Station,6453.49822205,0.4202,2711.7599529
-Gas,Dry Creek Gas Turbine Station,10.8004977875,1.2,12.960597345
-Gas,German Creek Power Station,241.675125864,,
-Gas,Hallett Power Station,158.90605541,1.02,162.084176518
-Gas,"Jeeralang ""A"" Power Station",12.895448765,0.8199,10.5729784424
-Gas,"Jeeralang ""B"" Power Station",48.0517292308,0.8199,39.3976127964
-Gas,Ladbroke Grove Power Station,176.413245339,0.53,93.4990200298
-Gas,Laverton North Power Station,15.50151469,0.7454,11.5548290499
-Gas,Mintaro Gas Turbine Station,17.6265321042,0.82,14.4537563254
-Gas,Moranbah North Power Station,469.869240792,,
-Gas,Mortlake Power Station Units,427.212451602,0.53,226.422599349
-Gas,Newport Power Station,218.109177083,0.53,115.597863854
-Gas,Oakey Power Station,279.118022732,0.76,212.129697277
-Gas,Osborne Power Station,1841.7458939,0.46,847.203111192
-Gas,Pelican Point Power Station,886.066832655,0.3973,352.034352614
-Gas,Quarantine Power Station,171.084595001,0.6888,117.843069037
-Gas,Roma Gas Turbine Station,87.249985315,0.6639,57.9252652506
-Gas,Smithfield Energy Facility,1913.71393182,0.481,920.496401205
-Gas,Somerton Power Station,21.7614750242,0.76,16.5387210184
-Gas,Swanbank E Gas Turbine,0,0.37,0
-Gas,Tallawarra Power Station,872.481881771,0.3581,312.435761862
-Gas,Tamar Valley Combined Cycle Power Station,1103.23826844,0.4104,452.768985368
-Gas,Tamar Valley Peaking  Power Station,47.0038723975,0.653,30.6935286756
-Gas,"Torrens Island Power Station ""A""",723.206757649,0.59,426.691987013
-Gas,"Torrens Island Power Station ""B""",2026.27766356,0.57,1154.97826823
-Gas,Townsville Gas Turbine,357.589759619,0.45,160.915391829
-Gas,Uranquinty Power Station ,749.266587326,0.5817,435.848373847
-Gas,Valley Power Peaking Facility,11.6924802525,0.8136,9.5130019334
-Gas,Yarwun Power Station,1136.57303312,0.5323,604.997825531
-Solar,Royalla Solar Farm,24.8920765148,,
-Solar,Nyngan Solar Plant,220.33575458,,
-Solar,Broken Hill Solar Plant,121.815418701,,
-Solar,Moree Solar Farm,108.35458525,,
-Solar,Mugga Lane Solar Park,6.0530204395,,
-Solar,Barcaldine Solar Farm,0.504325,,
-Hydro,Barron Gorge Power Station,94.22191505,,
-Hydro,Bastyan Power Station,432.437076978,,
-Hydro,Bendeela / Kangaroo Valley Power Station,309.07109978,,
-Hydro,Blowering Power Station,169.574846588,,
-Hydro,Bogong / Mckay Power Station,579.686947295,,
-Hydro,Butlers Gorge Power Station,65.0638435498,,
-Hydro,Catagunya / Liapootah / Wayatinah Power Station,2867.69728085,,
-Hydro,Cethana Power Station,477.54099902,,
-Hydro,Clover Power Station,79.1421173385,,
-Hydro,Cluny Power Station,94.8604894545,,
-Hydro,Dartmouth Power Station,125.582825009,,
-Hydro,Devils Gate Power Station,331.903904854,,
-Hydro,Eildon Power Station,120.829746667,,
-Hydro,Fisher Power Station,267.112070834,,
-Hydro,Gordon Power Station,633.385356237,,
-Hydro,Guthega Power Station,402.794345353,,
-Hydro,Hume Power Station,211.986359913,,
-Hydro,John Butters Power Station,603.818952218,,
-Hydro,Kareeya Power Station,301.3552375,,
-Hydro,Lake Echo Power Station,60.6150365525,,
-Hydro,Lemonthyme / Wilmot  Power Station,986.406883953,,
-Hydro,Mackintosh Power Station,459.960179653,,
-Hydro,Meadowbank Power Station,207.059723687,,
-Hydro,Murray 1 Power Station,3159.36624428,,
-Hydro,Murray 2 Power Station,3159.36624428,,
-Hydro,Paloona Power Station,68.8333702622,,
-Hydro,Poatina Power Station,531.385347378,,
-Hydro,Reece Power Station,1206.78948226,,
-Hydro,Repulse Power Station,160.79852807,,
-Hydro,Rowallan Power Station,56.0421425928,,
-Hydro,Rubicon Mountain Streams Station,0,,
-Hydro,Tarraleah Power Station,456.301276004,,
-Hydro,Trevallyn Power Station,485.151049162,,
-Hydro,Tribute Power Station,272.185735077,,
-Hydro,Tumut 1 Power Station,2168.75070145,,
-Hydro,Tumut 2 Power Station,2168.75070145,,
-Hydro,Tumut 3 Power Station,755.563241964,,
-Hydro,Tungatinah Power Station,622.526779233,,
-Hydro,West Kiewa Power Station,216.970725,,
-Hydro,Wivenhoe Power Station,113.808107423,,
-Wind,Canunda Wind Farm,122.540832117,,
-Wind,Capital Wind Farm,385.704782872,,
-Wind,Cathedral Rocks Wind Farm,157.717090195,,
-Wind,Challicum Hills Wind Farm,142.144956507,,
-Wind,Clements Gap Wind Farm,175.778715503,,
-Wind,Cullerin Range Wind Farm,105.881961204,,
-Wind,Gullen Range Wind Farm,517.897773053,,
-Wind,Gunning Wind Farm,166.023511064,,
-Wind,Hallett 1 Wind Farm,319.215739917,,
-Wind,Hallett 2 Wind Farm,246.95817525,,
-Wind,Lake Bonney Stage 2 Windfarm,418.276662746,,
-Wind,Lake Bonney Stage 3 Wind Farm,103.089041735,,
-Wind,Lake Bonney Wind Farm,199.178674555,,
-Wind,Macarthur Wind Farm,1020.61706239,,
-Wind,Mortons Lane Wind Farm,67.006149975,,
-Wind,Mt Mercer Windf Farm,400.913169525,,
-Wind,Mt Millar Wind Farm,184.037409627,,
-Wind,Musselroe Wind Farm,612.698824632,,
-Wind,North Brown Hill Wind Farm,438.518737601,,
-Wind,Oaklands Hill Wind Farm,187.665819083,,
-Wind,Portland Wind Farm,492.268591701,,
-Wind,Snowtown South Wind Farm,451.084101868,,
-Wind,Snowtown Wind Farm Stage 2 North,463.888945162,,
-Wind,Starfish Hill Wind Farm,76.6350512631,,
-Wind,The Bluff Wind Farm,147.459363167,,
-Wind,Waterloo Wind Farm,628.230286803,,
-Wind,Wattle Point Wind Farm,262.502907716,,
-Wind,Waubra Wind Farm,644.138311131,,
-Wind,Woodlawn Wind Farm,162.392111975,,
-Wind,Woolnorth Studland Bay / Bluff Point Wind Farm,1017.49067136,,
-Wind,Yambuk Wind Farm ,89.0753333395,,
-Wind,Bald Hills Wind Farm,355.302855439,,
-Wind,Boco Rock Wind Farm,746.013407833,,
-Wind,Taralga Wind Farm,318.441987491,,
-Wind,Hornsdale Wind Farm,142.84576225,,
-Wind,Ararat Wind Farm,75.6758890367,,
-Wind,Snowtown Wind Farm Units 1 to 47,337.369788103,,
+,CATEGORY,STATION_NAME,GWH,SCOPE_1,EMISSIONS
+0,Biomass,Invicta Sugar Mill,366.137214136,,
+1,Biomass,Pioneer Sugar Mill,179.067211454,,
+2,Biomass,Rocky Point Cogeneration Plant,32.4459833841,,
+3,Black Coal,Bayswater Power Station,16687.4933111,0.8655,14443025.4607
+4,Black Coal,Callide A Power Station,0.0,,
+5,Black Coal,Callide B Power Station,4821.38502293,0.92,4435674.2211
+6,Black Coal,Callide Power Plant,5442.24156263,0.8953,4872438.87102
+7,Black Coal,Eraring Power Station,12976.8599294,0.8623,11189946.3172
+8,Black Coal,Gladstone Power Station,6958.29981745,0.96,6679967.82475
+9,Black Coal,Kogan Creek Power Station,4740.8232788,0.82,3887475.08862
+10,Black Coal,Liddell Power Station,9037.22301248,0.93,8404617.40161
+11,Black Coal,Millmerran Power Plant,6903.75004167,0.8301,5730802.90959
+12,Black Coal,Mt Piper Power Station,7749.17419394,0.8623,6682112.90744
+13,Black Coal,Stanwell Power Station,9231.38509146,0.8609,7947299.42524
+14,Black Coal,Tarong North Power Station,2671.97575637,0.833,2225755.80506
+15,Black Coal,Tarong Power Station,9021.26552,0.86,7758288.3472
+16,Black Coal,"Vales Point ""B"" Power Station",7836.22640202,0.86,6739154.70574
+17,Brown Coal,Energy Brix Complex Power Station,0.0,2.8,0.0
+18,Brown Coal,Hazelwood Power Station,10166.4309167,1.3963,14195387.4889
+19,Brown Coal,Loy Yang A Power Station,15693.7423241,1.15,18047803.6727
+20,Brown Coal,Loy Yang B Power Station,8440.20715657,1.136,9588075.32986
+21,Brown Coal,Northern Power Station,1308.47602271,1.0102,1321822.47815
+22,Brown Coal,Playford B Power Station,0.0,,
+23,Brown Coal,Yallourn W Power Station,11413.0542869,1.31,14951101.1158
+24,Distillate,Angaston Power Station,6.0425043878,,
+25,Distillate,Broken Hill Gas Turbines,1.8556379058,,
+26,Distillate,Eraring Power Station,0.0,0.8623,0.0
+27,Distillate,Hunter Valley Gas Turbine ,0.888064775,0.8872,787.8910684
+28,Distillate,Lonsdale Power Station,3.5248607733,,
+29,Distillate,Mackay Gas Turbine,0.5968772167,1.0,596.8772167
+30,Distillate,Mt Stuart Power Station,58.6274690467,0.9559,56041.9976616
+31,Distillate,Port Lincoln Gas Turbine,1.9732867042,1.4,2762.6013858
+32,Distillate,Port Stanvac Power Station 1,5.7197,,
+33,Distillate,Snuggery Power Station,3.0433311367,1.4,4260.6635913
+34,Distillate,Catagunya Diesel Generation ,21.6818824006,,
+35,Distillate,George Town Diesel Generation,3.9733867554,,
+36,Distillate,Meadowbank Diesel Generation,13.3751189438,,
+37,Distillate,Port Latta Diesel Generation,4.9615672217,,
+38,Distillate,Que River Diesel Generator,6.0353905795,,
+39,Distillate,Bell Bay Diesel Generator,1.4238383873,,
+40,Gas,Bairnsdale Power Station,153.548586667,0.5243,80505.5239893
+41,Gas,Barcaldine Power Station,3.300550135,1.0,3300.550135
+42,Gas,Bell Bay Three Power Station,164.7189375,0.6177,101746.887694
+43,Gas,Braemar 2 Power Station,647.834572771,0.5919,383453.283623
+44,Gas,Braemar Power Station ,803.136018914,0.5705,458189.098791
+45,Gas,Colongra Power Station,23.733094805,0.64,15189.1806752
+46,Gas,Condamine Power Station A,1674.3521959,0.4543,760658.202596
+47,Gas,Darling Downs Power Station,6453.49822205,0.4202,2711759.9529
+48,Gas,Dry Creek Gas Turbine Station,10.8004977875,1.2,12960.597345
+49,Gas,German Creek Power Station,241.675125864,,
+50,Gas,Hallett Power Station,158.90605541,1.02,162084.176518
+51,Gas,"Jeeralang ""A"" Power Station",12.895448765,0.8199,10572.9784424
+52,Gas,"Jeeralang ""B"" Power Station",48.0517292308,0.8199,39397.6127964
+53,Gas,Ladbroke Grove Power Station,176.413245339,0.53,93499.0200298
+54,Gas,Laverton North Power Station,15.50151469,0.7454,11554.8290499
+55,Gas,Mintaro Gas Turbine Station,17.6265321042,0.82,14453.7563254
+56,Gas,Moranbah North Power Station,469.869240792,,
+57,Gas,Mortlake Power Station Units,427.212451602,0.53,226422.599349
+58,Gas,Newport Power Station,218.109177083,0.53,115597.863854
+59,Gas,Oakey Power Station,279.118022732,0.76,212129.697277
+60,Gas,Osborne Power Station,1841.7458939,0.46,847203.111192
+61,Gas,Pelican Point Power Station,886.066832655,0.3973,352034.352614
+62,Gas,Quarantine Power Station,171.084595001,0.6888,117843.069037
+63,Gas,Roma Gas Turbine Station,87.249985315,0.6639,57925.2652506
+64,Gas,Smithfield Energy Facility,1913.71393182,0.481,920496.401205
+65,Gas,Somerton Power Station,21.7614750242,0.76,16538.7210184
+66,Gas,Swanbank E Gas Turbine,0.0,0.37,0.0
+67,Gas,Tallawarra Power Station,872.481881771,0.3581,312435.761862
+68,Gas,Tamar Valley Combined Cycle Power Station,1103.23826844,0.4104,452768.985368
+69,Gas,Tamar Valley Peaking  Power Station,47.0038723975,0.653,30693.5286756
+70,Gas,"Torrens Island Power Station ""A""",723.206757649,0.59,426691.987013
+71,Gas,"Torrens Island Power Station ""B""",2026.27766356,0.57,1154978.26823
+72,Gas,Townsville Gas Turbine,357.589759619,0.45,160915.391829
+73,Gas,Uranquinty Power Station ,749.266587326,0.5817,435848.373847
+74,Gas,Valley Power Peaking Facility,11.6924802525,0.8136,9513.0019334
+75,Gas,Yarwun Power Station,1136.57303312,0.5323,604997.825531
+76,Solar,Royalla Solar Farm,24.8920765148,,
+77,Solar,Nyngan Solar Plant,220.33575458,,
+78,Solar,Broken Hill Solar Plant,121.815418701,,
+79,Solar,Moree Solar Farm,108.35458525,,
+80,Solar,Mugga Lane Solar Park,6.0530204395,,
+81,Solar,Barcaldine Solar Farm,0.504325,,
+82,Hydro,Barron Gorge Power Station,94.22191505,,
+83,Hydro,Bastyan Power Station,432.437076978,,
+84,Hydro,Bendeela / Kangaroo Valley Power Station,309.07109978,,
+85,Hydro,Blowering Power Station,169.574846588,,
+86,Hydro,Bogong / Mckay Power Station,579.686947295,,
+87,Hydro,Butlers Gorge Power Station,65.0638435498,,
+88,Hydro,Catagunya / Liapootah / Wayatinah Power Station,2867.69728085,,
+89,Hydro,Cethana Power Station,477.54099902,,
+90,Hydro,Clover Power Station,79.1421173385,,
+91,Hydro,Cluny Power Station,94.8604894545,,
+92,Hydro,Dartmouth Power Station,125.582825009,,
+93,Hydro,Devils Gate Power Station,331.903904854,,
+94,Hydro,Eildon Power Station,120.829746667,,
+95,Hydro,Fisher Power Station,267.112070834,,
+96,Hydro,Gordon Power Station,633.385356237,,
+97,Hydro,Guthega Power Station,402.794345353,,
+98,Hydro,Hume Power Station,211.986359913,,
+99,Hydro,John Butters Power Station,603.818952218,,
+100,Hydro,Kareeya Power Station,301.3552375,,
+101,Hydro,Lake Echo Power Station,60.6150365525,,
+102,Hydro,Lemonthyme / Wilmot  Power Station,986.406883953,,
+103,Hydro,Mackintosh Power Station,459.960179653,,
+104,Hydro,Meadowbank Power Station,207.059723687,,
+105,Hydro,Murray 1 Power Station,3159.36624428,,
+106,Hydro,Murray 2 Power Station,3159.36624428,,
+107,Hydro,Paloona Power Station,68.8333702622,,
+108,Hydro,Poatina Power Station,531.385347378,,
+109,Hydro,Reece Power Station,1206.78948226,,
+110,Hydro,Repulse Power Station,160.79852807,,
+111,Hydro,Rowallan Power Station,56.0421425928,,
+112,Hydro,Rubicon Mountain Streams Station,0.0,,
+113,Hydro,Tarraleah Power Station,456.301276004,,
+114,Hydro,Trevallyn Power Station,485.151049162,,
+115,Hydro,Tribute Power Station,272.185735077,,
+116,Hydro,Tumut 1 Power Station,2168.75070145,,
+117,Hydro,Tumut 2 Power Station,2168.75070145,,
+118,Hydro,Tumut 3 Power Station,755.563241964,,
+119,Hydro,Tungatinah Power Station,622.526779233,,
+120,Hydro,West Kiewa Power Station,216.970725,,
+121,Hydro,Wivenhoe Power Station,113.808107423,,
+122,Wind,Canunda Wind Farm,122.540832117,,
+123,Wind,Capital Wind Farm,385.704782872,,
+124,Wind,Cathedral Rocks Wind Farm,157.717090195,,
+125,Wind,Challicum Hills Wind Farm,142.144956507,,
+126,Wind,Clements Gap Wind Farm,175.778715503,,
+127,Wind,Cullerin Range Wind Farm,105.881961204,,
+128,Wind,Gullen Range Wind Farm,517.897773053,,
+129,Wind,Gunning Wind Farm,166.023511064,,
+130,Wind,Hallett 1 Wind Farm,319.215739917,,
+131,Wind,Hallett 2 Wind Farm,246.95817525,,
+132,Wind,Lake Bonney Stage 2 Windfarm,418.276662746,,
+133,Wind,Lake Bonney Stage 3 Wind Farm,103.089041735,,
+134,Wind,Lake Bonney Wind Farm,199.178674555,,
+135,Wind,Macarthur Wind Farm,1020.61706239,,
+136,Wind,Mortons Lane Wind Farm,67.006149975,,
+137,Wind,Mt Mercer Windf Farm,400.913169525,,
+138,Wind,Mt Millar Wind Farm,184.037409627,,
+139,Wind,Musselroe Wind Farm,612.698824632,,
+140,Wind,North Brown Hill Wind Farm,438.518737601,,
+141,Wind,Oaklands Hill Wind Farm,187.665819083,,
+142,Wind,Portland Wind Farm,492.268591701,,
+143,Wind,Snowtown South Wind Farm,451.084101868,,
+144,Wind,Snowtown Wind Farm Stage 2 North,463.888945162,,
+145,Wind,Starfish Hill Wind Farm,76.6350512631,,
+146,Wind,The Bluff Wind Farm,147.459363167,,
+147,Wind,Waterloo Wind Farm,628.230286803,,
+148,Wind,Wattle Point Wind Farm,262.502907716,,
+149,Wind,Waubra Wind Farm,644.138311131,,
+150,Wind,Woodlawn Wind Farm,162.392111975,,
+151,Wind,Woolnorth Studland Bay / Bluff Point Wind Farm,1017.49067136,,
+152,Wind,Yambuk Wind Farm ,89.0753333395,,
+153,Wind,Bald Hills Wind Farm,355.302855439,,
+154,Wind,Boco Rock Wind Farm,746.013407833,,
+155,Wind,Taralga Wind Farm,318.441987491,,
+156,Wind,Hornsdale Wind Farm,142.84576225,,
+157,Wind,Ararat Wind Farm,75.6758890367,,
+158,Wind,Snowtown Wind Farm Units 1 to 47,337.369788103,,
